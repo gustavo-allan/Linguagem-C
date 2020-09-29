@@ -1,0 +1,12 @@
+#include <stdio.h>  
+#include <conio.h>
+
+ int main(){  
+   int cont;  
+   for(cont=10;cont<=100;cont++){  
+     printf("%d ",cont);  
+   }  
+   
+   getch();
+    
+ }  
